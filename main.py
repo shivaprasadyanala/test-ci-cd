@@ -5,4 +5,4 @@ def test():
     print("in function")
 
 
-test();
+test()
