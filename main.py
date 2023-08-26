@@ -1,5 +1,5 @@
 print("hello")
-def test:
+def test():
     print("in function")
  
 test();
